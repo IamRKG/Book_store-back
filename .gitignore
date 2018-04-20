@@ -1,0 +1,10 @@
+#ignore Default
+
+#ignore Build Target
+target
+
+#ignore intelli J Idea Default
+.idea
+
+
+
